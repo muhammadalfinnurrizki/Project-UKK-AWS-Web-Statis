@@ -65,7 +65,7 @@ Bucket Policy - edit
     ]
 }
 ```
-
+change the name of the bucket in police
 Properties
 Enable Static Website Hosting
 Index document : index.html
@@ -75,7 +75,7 @@ Test	: Bucket Website Endpoint
 
 ## B. Cloud Front
 ###### Create Distribution
-Origin Domain		: your S3 - use website endpoint
-Name			: 
-Test	: Distribution Domain Name
+- Origin Domain		: your S3 - use website endpoint
+- Name			: 
+- Test	: Distribution Domain Name
 
